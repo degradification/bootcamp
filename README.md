@@ -1,2 +1,9 @@
-# Python Bootcamp
-Python and Stats Bootcamp Summmer 2018
+# Python and Statistics Bootcamp
+
+Center for Astrophysics
+Monday, June 4th
+
+Workshops
+ * Introduction to Python
+ * Data Wrangling
+
