@@ -6,4 +6,5 @@ Monday, June 4th
 Workshops
  * Introduction to Python
  * Data Wrangling
-
+ * Visualization
+ * Statistical Inference
